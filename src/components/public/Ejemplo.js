@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ejemplo = () => {
+const Ejemplo = () => {
     const titulo = "Hola che";
     const subtitulo = "Chau loco";
   return (
@@ -11,4 +11,4 @@ const ejemplo = () => {
   )
 }
 
-export default ejemplo
+export default Ejemplo

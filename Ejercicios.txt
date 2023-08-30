@@ -1,0 +1,16 @@
+Ejercicio 1
+
+En App.js retornar: 
+<Ejemplo />
+
+Ejercicio 2
+
+En App.js retornar: 
+<Navbar />
+<Main />
+<Footer />
+
+Ejercicio 3 
+
+En App.js retornar:
+<Main2 />

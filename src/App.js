@@ -1,17 +1,15 @@
-import React, {Component} from 'react';
-import logo from './logo.svg';
+
 import './App.css';
-import Navbar from './components/public/Navbar';
-import Main from './components/public/Main';
-import Footer from './components/public/Footer';
+
+import React, {Component} from 'react';
+
+import Main2 from './components/public/Main2';
 
 function App() {
   return (
     <div className="App">
-      <Navbar></Navbar>
-      <Main></Main>
-      <Footer></Footer>
-    </div>
+      <Main2></Main2>
+    </div> 
   );
 }
 
