@@ -1,14 +1,12 @@
 
 import './App.css';
-
 import React, {Component} from 'react';
-
-import Main2 from './components/public/Main2';
+import Button from './components/public/Button';
 
 function App() {
   return (
     <div className="App">
-      <Main2></Main2>
+      <Button></Button>
     </div> 
   );
 }
