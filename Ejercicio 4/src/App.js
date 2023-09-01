@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Navbar></Navbar>
       <Routes>
-        <Route path={"/"} element={<Main1></Main1>}></Route>
+        <Route exact path={"/"} element={<Main1></Main1>}></Route>
         <Route path={"/main1"} element={<Main1></Main1>}></Route>
         <Route path={"/main2"} element={<Main2></Main2>}></Route>
       </Routes>

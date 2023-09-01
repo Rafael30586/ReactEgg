@@ -13,12 +13,13 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <Link to={"/main2"}>Main2</Link>
-                <a className="nav-link active" aria-current="page" href="#">Home</a>
+                <Link to={"/main2"}><button type="button" className="btn btn-outline-success">Main2</button></Link>
+                
               </li>
               <li className="nav-item">
-                <Link to={"/main1"}>Main1</Link>
-                <a className="nav-link" href="#">Link</a>
+                <Link to={"/main1"}><button type="button" className="btn btn-outline-info">Main1</button>
+</Link>
+                
               </li>
               <li className="nav-item dropdown">
                 <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
