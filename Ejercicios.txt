@@ -19,3 +19,8 @@ Ejercicio 5
 
 En App.js retornar:
 <Button />
+
+Ejercicio 6
+
+En App.js retornar:
+<Characters />

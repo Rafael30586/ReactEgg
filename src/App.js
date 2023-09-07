@@ -1,12 +1,12 @@
 
 import './App.css';
 import React, {Component} from 'react';
-import Button from './components/public/Button';
+import { Characters } from './components/public/Characters';
 
 function App() {
   return (
     <div className="App">
-      <Button></Button>
+      <Characters></Characters>
     </div> 
   );
 }
